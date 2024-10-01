@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "https://parkjaehan0623.github.io/"
+baseurl: "/parkjaehan0623.github.io/"
 url: "https://parkjaehan0623.github.io/MyBlog/"
 
 # THEME-SPECIFIC CONFIGURATION
